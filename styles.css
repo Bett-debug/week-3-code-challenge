@@ -1,0 +1,20 @@
+body {
+  font-family: Arial;
+  display: flex;
+  padding: 20px;
+}
+#app {
+  display: flex;
+  gap: 30px;
+}
+#post-list {
+  list-style: none;
+  padding: 0;
+}
+#post-list li {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+#post-detail img {
+  max-width: 100%;
+}
