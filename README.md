@@ -1,16 +1,16 @@
-React Blog App
+# React Blog App
 
  A simple blog application built using React JS as a demonstration for Moringa School Phase 2 students learning React.
 
-By Samuel Kiplangat
+### By Samuel Kiplangat
 
-Description
+## Description
 
 This is a minimalist blog application built using html,css and javascript. 
 Screenshot
 
 
- Features
+## Features
 
 - Home page displaying a list of blog posts
 - Individual post view
@@ -18,37 +18,39 @@ Screenshot
 - Contact page with a form
 
 
-web app screenshot![image](https://github.com/user-attachments/assets/28ca6fd4-70dc-4a3d-977f-c77d863eb3bd)
+## web app screenshot
+![image](https://github.com/user-attachments/assets/28ca6fd4-70dc-4a3d-977f-c77d863eb3bd)
 ![image](https://github.com/user-attachments/assets/28ca6fd4-70dc-4a3d-977f-c77d863eb3bd)
 
- How to Use
 
- Requirements
+
+ ## Requirements
 
 - A computer, tablet, or phone
 - Access to the internet
 - A modern web browser
 
- View Live Site
+ ## View Live Site
 
-visit the deployed web app at [https://bett-debug.github.io/week-3-code-challenge/]
-The live site allows you to:
+visit the deployed web app [here] ([https://bett-debug.github.io/week-3-code-challenge/])
+
+### The live site allows you to:
 
 - Browse through the list of blog posts on the home page
 - Click on any post to read its full content
 - Navigate to the About page to learn more about the blog
 - Use the Contact page to reach out via the contact form
 
- Local Development
+ ## Local Development
 
-If you want to run the project locally, you'll need:
+### If you want to run the project locally, you'll need:
 
 - Node.js installed on your computer
 - Basic understanding of React JS
 - Code editor (VS Code recommended)
 - Terminal/Command Line
 
- Installation Process
+## Installation Process
 
 1. Clone this repository using:
 
@@ -84,22 +86,16 @@ If you want to run the project locally, you'll need:
 - Tailwind css
 - JavaScript 
 
-Related Repositories
 
- Backend API
-
-- Repository: [Blog API Repository](https://github.com/dennis-kiboi/blog-app-sdf-ft11-json-server)
-- Deployed API: [Live API URL](https://blog-app-sdf-ft11-json-server.onrender.com)
-
- Support and Contact Details
+## Support and Contact Details
 
 If you have any questions, suggestions, or need assistance, please contact:
 
 - Email: <samuel.kiplangat@student.moringaschool.com>
 
- License
+### License
 
-MIT License
+## MIT License
 
 Copyright &copy; 2025 Samuel Kiplangat.
 
