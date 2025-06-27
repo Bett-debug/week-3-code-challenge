@@ -19,9 +19,7 @@ Screenshot
 
 
 ## web app screenshot
-![image](https://github.com/user-attachments/assets/28ca6fd4-70dc-4a3d-977f-c77d863eb3bd)
-![image](https://github.com/user-attachments/assets/28ca6fd4-70dc-4a3d-977f-c77d863eb3bd)
-
+![alt text](image.png)
 
 
  ## Requirements

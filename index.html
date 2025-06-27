@@ -1,25 +1,27 @@
-git <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <title>Post Pulse</title>
-  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 </head>
-<body>
+<body class="bg-gray-200">
   <div id="app">
     <div>
-      <h2>Blog Posts</h2>
+      <h2 class="bg-gray-400 text-center text-2xl mt-4 mb-2" >Blog Posts</h2>
       <ul id="post-list"></ul>
       <form id="new-post-form">
-        <h3>Add New Post</h3>
-        <input type="text" id="title" placeholder="Title" required />
-        <input type="text" id="author" placeholder="Author" required />
-        <input id="content" placeholder="Content" required></input>
-        <button type="submit">Create New Post</button>
+        <h3 class="container font-bold text-center">Add New Post</h3>
+        <div class=" flex flex-wrap items-center gap-2 mb-4 p-4 bg-gray-400 rounded-lg">
+        <input type="text" id="title" placeholder="Title" required  class="bg-gray-100 rounded-sm"/>
+        <input type="text" id="author" placeholder="Author" required class="bg-gray-100 rounded-sm"/>
+        <input id="content" placeholder="Content" required class="bg-gray-100 rounded-sm"></input>
+        <button type="submit" class="bg-black rounded-sm text-white ">Create New Post</button>
+        </div>
       </form>
     </div>
-    <div id="post-detail"></div>
+    <div id="post-detail" class="container bg-white"></div>
   </div>
-  <script src="index.js"></script>
+  <script src="./src/index.js"></script>
 </body>
 </html>
