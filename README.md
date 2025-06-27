@@ -1,6 +1,6 @@
 # React Blog App
 
- A simple blog application built using React JS as a demonstration for Moringa School Phase 2 students learning React.
+A simple web application used to display blogs which enables on to post a blog and delete it from the web.
 
 ### By Samuel Kiplangat
 
